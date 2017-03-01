@@ -12,6 +12,8 @@ public class MainActivity extends AppCompatActivity {
 
     Button cmdGetResults = null;
 
+    Integer i = 40;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
