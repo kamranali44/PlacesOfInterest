@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Places of Interest</string>
+    <string name="GOOGLE_PLACES_API_KEY">AIzaSyD2kIo_ZDadEGQtIkADlKgflYKSS-C1_Vg</string>
+
+</resources>
